@@ -1,12 +1,8 @@
-@using Survivor.Models
-
-<h1>Survivors!</h1>
-<ul>
-@foreach (Player player in Model)
-{
-    
-    <li>Name: @player.PlayerName</li>
-    <li>Name: @player.Gender</li>
-    
+@{
+    ViewData["Title"] = "Home Page";
 }
-</ul>
+
+<h1>Survivor!</h1>
+
+   <p>See info on survivors @Html.ActionLink("here", "Index", "Players")</p>
+   <p>See info on seasons @Html.ActionLink("here", "Index", "Seasons")</p>

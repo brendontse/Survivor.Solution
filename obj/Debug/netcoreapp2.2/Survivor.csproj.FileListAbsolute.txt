@@ -35,3 +35,11 @@
 /Users/Guest/Desktop/Survivor.Solution/Survivor/obj/Debug/netcoreapp2.2/Survivor.RazorTargetAssemblyInfo.cs
 /Users/Guest/Desktop/Survivor.Solution/Survivor/obj/Debug/netcoreapp2.2/Survivor.Views.pdb
 /Users/Guest/Desktop/Survivor.Solution/Survivor/obj/Debug/netcoreapp2.2/Survivor.csproj.CopyComplete
+/Users/Guest/Desktop/Survivor.Solution/Survivor/obj/Debug/netcoreapp2.2/Razor/Views/Players/Index.g.cshtml.cs
+/Users/Guest/Desktop/Survivor.Solution/Survivor/obj/Debug/netcoreapp2.2/Razor/Views/Seasons/Index.g.cshtml.cs
+/Users/Guest/Desktop/Survivor.Solution/Survivor/obj/Debug/netcoreapp2.2/Razor/Views/Shared/Error.g.cshtml.cs
+/Users/Guest/Desktop/Survivor.Solution/Survivor/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+/Users/Guest/Desktop/Survivor.Solution/Survivor/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.g.cshtml.cs
+/Users/Guest/Desktop/Survivor.Solution/Survivor/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+/Users/Guest/Desktop/Survivor.Solution/Survivor/obj/Debug/netcoreapp2.2/Razor/Views/_ViewImports.g.cshtml.cs
+/Users/Guest/Desktop/Survivor.Solution/Survivor/obj/Debug/netcoreapp2.2/Razor/Views/_ViewStart.g.cshtml.cs

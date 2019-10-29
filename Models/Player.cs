@@ -25,7 +25,7 @@ namespace Survivor.Models
         }
         public static List<Player> GetPlayers()
         {
-            var apiCallTask = ApiHelper.ApiCall();
+            var apiCallTask = ApiHelper.PlayerApiCall();
             var result = apiCallTask.Result;
 
             JArray jsonResponse = JsonConvert.DeserializeObject<JArray>(result);

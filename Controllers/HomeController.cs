@@ -7,8 +7,8 @@ namespace Survivor.Controllers
     {
         public IActionResult Index()
         {
-            var allPlayers = Player.GetPlayers();
-            return View(allPlayers);
+       
+            return View();
         }
     }
 }
